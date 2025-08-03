@@ -1,8 +1,11 @@
 # SystemCourseA_MakeupExam_01
 　　
 ## 1. はじめに
-[<>Code] > [Local] > [Download ZIP] を押下して「SystemCourseA_MakeupExam_01-main.zip」をダウンロードしてください。  
-ダウンロードしたプロジェクトフォルダを解凍後、「VisualStudio」にてプロジェクトを開き、課題を実施してください。  
+[<>Code] > [Local] > [Download ZIP] を押下して  
+「SystemCourseA_MakeupExam_01-main.zip」をダウンロードしてください。  
+  
+ダウンロードしたプロジェクトフォルダを解凍後、  
+「VisualStudio」にてプロジェクトを開き、課題を実施してください。  
 　　
 ## 2. 課題内容
 以下の機能①～③を実装してください。  
