@@ -38,7 +38,7 @@
             // txtUserID
             // 
             txtUserID.Location = new Point(68, 62);
-            txtUserID.MaxLength = 100;
+            txtUserID.MaxLength = 20;
             txtUserID.Name = "txtUserID";
             txtUserID.Size = new Size(250, 23);
             txtUserID.TabIndex = 1;
@@ -55,7 +55,7 @@
             // txtPassWord
             // 
             txtPassWord.Location = new Point(67, 141);
-            txtPassWord.MaxLength = 100;
+            txtPassWord.MaxLength = 20;
             txtPassWord.Name = "txtPassWord";
             txtPassWord.Size = new Size(250, 23);
             txtPassWord.TabIndex = 3;
@@ -91,6 +91,7 @@
             Margin = new Padding(2);
             MaximizeBox = false;
             Name = "frmLogin";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "ログイン画面";
             ResumeLayout(false);
             PerformLayout();
